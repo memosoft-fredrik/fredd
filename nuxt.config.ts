@@ -4,5 +4,5 @@ export default defineNuxtConfig({
     preset: 'cloudflare-pages',
   },
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ['@nuxtjs/tailwindcss', 'nuxt-svgo'],
 });

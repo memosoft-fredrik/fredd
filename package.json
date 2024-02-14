@@ -19,6 +19,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240129.0",
     "@nuxtjs/tailwindcss": "^6.11.3",
+    "nuxt-svgo": "^4.0.0",
     "wrangler": "^3.26.0"
   }
 }
