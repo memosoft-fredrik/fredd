@@ -15,4 +15,13 @@
 
 <script setup lang="ts">
 import FredHome from '~/assets/svg/fredd-icon.svg';
+
+useSeoMeta({
+  title: 'fredd.no',
+  ogTitle: 'fredd.no',
+  description: 'This is my site, currently learning Docker',
+  ogDescription: 'This is my site, currently learning Docker',
+  ogImage: 'https://fredd.no/og-image.jpg',
+  twitterCard: 'summary_large_image',
+})
 </script>
