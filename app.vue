@@ -5,10 +5,9 @@
     >
       <div>
         <FredHome
-          class="text-blue-400 text-center text-[400px] hover:text-blue-400/80 hover:text-[390px] drop-shadow-[0_10px_80px_rgba(147,197,253,0.15)] ease-in-out duration-200"
+          class="text-blue-400 text-center text-[400px] drop-shadow-[0_10px_80px_rgba(147,197,253,0.15)]"
           alt="Discover Fredd"
         />
-        <h1 class="font-thin text-4xl pt-12">Fredd.no</h1>
       </div>
     </div>
   </div>
